@@ -1,0 +1,12 @@
+io.github.ibony.ats
+io.github.ibony.ats.android
+io.github.ibony.ats.android.adblistener
+io.github.ibony.ats.android.fps
+io.github.ibony.ats.android.minicap
+io.github.ibony.ats.common
+io.github.ibony.ats.common.command
+io.github.ibony.ats.common.http
+io.github.ibony.ats.common.okhttp
+io.github.ibony.ats.common.utf7
+io.github.ibony.ats.report
+io.github.ibony.ats.utils
